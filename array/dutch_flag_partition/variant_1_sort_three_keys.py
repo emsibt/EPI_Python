@@ -66,15 +66,3 @@ def sort_three_keys(arr: list):
 
 if __name__ == "__main__":
     test_sort_three_keys()
-
-"""
-low = 0, high = 5, curr = 0
-arr[curr] = 1
-arr = [1,2,3,1,2,3] -> curr++, low++
-
-low = 1, high = 5, curr = 1
-arr[curr] = 2
-arr = [1,2,3,1,2,3] -> curr++
-
-low = 1, high = 5
-"""

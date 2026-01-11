@@ -63,8 +63,3 @@ def sort_boolean_keys(arr: list):
 
 if __name__ == "__main__":
     test_sort_boolean_keys()
-
-"""
-low = 0, curr = 0
-
-"""
